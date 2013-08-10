@@ -1,0 +1,3 @@
+hooks:
+  pos-restart:
+    - sentry --config=sentry.conf.py upgrade
